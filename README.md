@@ -100,9 +100,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/yhjune"><img src="https://avatars.githubusercontent.com/u/77730511?v=4?s=100" width="100px;" alt="HyoJung Yoon"/><br /><sub><b>HyoJung Yoon</b></sub></a><br /><a href="https://github.com/yhjune/AlgoForPy/commits?author=yhjune" title="Documentation">📖</a> <a href="#ideas-yhjune" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/mingyo-choi"><img src="https://avatars.githubusercontent.com/u/128064550?v=4?s=100" width="100px;" alt="mingyo choi"/><br /><sub><b>mingyo choi</b></sub></a><br /><a href="#ideas-mingyo-choi" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/suhhyun524"><img src="https://avatars.githubusercontent.com/u/97878992?v=4?s=100" width="100px;" alt="suhhyun"/><br /><sub><b>suhhyun</b></sub></a><br /><a href="#ideas-suhhyun524" title="Ideas, Planning, & Feedback">🤔</a></td>
-    </tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/hyunsooBang"><img src="https://avatars.githubusercontent.com/u/90560533?v=4" width="100px;" alt="hyunsooBang"/><br /><sub><b>hyunsooBang</b></sub></a><br /><a href="#ideas-hyunsooBang" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tbody>
+    </tr>
+     
 </table>
 
 <!-- markdownlint-restore -->
