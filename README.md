@@ -15,7 +15,13 @@
 6. 커밋: 문제 or 공부한 노트 작성
 7. 1일 1커밋 목표로 열심히 하도록 합시다
 
-problems 문제는 매주 일요일 저녁에 업데이트 예정입니당
+- problems 문제는 매주 일요일 저녁에 업데이트 예정입니당
+- 예시로 제 노트를 올려두었음
+
+## 결과
+1. [이것이 취업을 위한 코딩 테스트다 with Python](https://github.com/ndb796/python-for-coding-test) 완독
+2. 알고리즘 코딩 테스트를 위한 python 노트 만들기
+3. 백준 골드 랭크 도달 [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon/tree/main)
 
 ## 네이밍 규칙
 
@@ -47,6 +53,35 @@ scope : B / P / L / ... {문제 번호}
 ```
 [해당 주차] 주차별 주제 - 해결한 문제 수
 ```
+
+
+## 계획
+1~7주차는 책 위주 + 기초 알고리즘 위주로 진행합니다.이후로는 토픽별로 진행할 예정
+문제는 전부 풀어도 되고 골라서 풀어도 됨. 추천 문제로 problem 주차별로 week-[].md에 적어 두겠습니다.
+
+
+| **Week** | **Date**              |          **subject**         | **Book** | **problems** |
+|:--------:|-----------------------|:----------------------------:|----------|:------------:|
+|     0    | 2023.08.11~2023.08.13 | PythonBasic                  | 부록A | [코드 200제](https://codeup.kr/problemsetsol.php?psid=33)         |
+|     1    | 2023.08.14~2023.08.20 | DataStructure, Greedy        | 그리디     |[자료구조 1](https://github.com/tony9402/baekjoon/tree/main/data_structure), [자료구조 2](https://github.com/tony9402/baekjoon/tree/main/data_structure2)    |
+|     2    | 2023.08.21~2023.08.27 | String, Implementation       |   구현    |              |
+|     3    | 2023.08.28~2023.09.03 | Tree, DFS / BFS              |   DFS/ BFS       |              |
+|     4    | 2023.09.04~2023.09.10 | Binary Search                |  이진탐색   |              |
+|     5    | 2023.09.05~2023.09.11 | Dynamic Programming          | 다이나믹 프로그래밍  |              |
+|     6    | 2023.09.12~2023.09.16 | Shortest Path                |  최단경로  |              |
+|     7    | 2023.09.17~2023.09.23 | Graph                        | 그래프 이론 |              |
+|          |                       | BackTracking                 |          |              |
+|          |                       | Two Pointer                  |          |              |
+|          |                       | Prefix Sum                   |          |              |
+|          |                       | Brute Force                  |          |              |
+|          |                       | Divide and Conquer           |          |              |
+|          |                       | Simulation                   |          |              |
+|          |                       | Trie                         |          |              |
+|          |                       | Math                         |          |              |
+|          |                       | Disjoin Set                  |          |              |
+|          |                       | Dynamic Programming On Trees |          |              |
+|          |                       | Topological Sorting          |          |              |
+
 
 ## 리뷰
 
