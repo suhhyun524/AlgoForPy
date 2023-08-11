@@ -1,6 +1,6 @@
 # study-template
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 알고리즘 스터디를 위한 템플릿
 
@@ -98,6 +98,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/yhjune"><img src="https://avatars.githubusercontent.com/u/77730511?v=4?s=100" width="100px;" alt="HyoJung Yoon"/><br /><sub><b>HyoJung Yoon</b></sub></a><br /><a href="https://github.com/yhjune/AlgoForPy/commits?author=yhjune" title="Documentation">📖</a> <a href="#ideas-yhjune" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/mingyo-choi"><img src="https://avatars.githubusercontent.com/u/128064550?v=4?s=100" width="100px;" alt="mingyo choi"/><br /><sub><b>mingyo choi</b></sub></a><br /><a href="#ideas-mingyo-choi" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
